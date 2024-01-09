@@ -8,4 +8,4 @@
 
 システム名　：ガンダム一覧表示システム
 
-URL　　　　 ：http://murakami.raindrop.jp/music/CRUD-menu.php
+URL　　　　 ：https://aso2201211.pussycat.jp/final/src/home.php
